@@ -17,6 +17,8 @@ See the `Readme.md` in each subdirectory for more information.  Note that none o
 License
 -------
 
+All of this code is ruled under the same license as *Composite*: GPL v2.  If you are a company, and this prevents you from using the code, please talk to us.
+
 ```
 Real-Time Timing Analysis Simulations
 Copyright (C) 2013 Qi Wang, Jiguo Song, Gabriel Parmer
